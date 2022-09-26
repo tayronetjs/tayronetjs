@@ -1,16 +1,41 @@
-### Hi there 👋
+<h1 align = "center">👋, I'm Tayrone</h1>
 
-<!--
-**tayronetjs/tayronetjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" width="350px" src="https://user-images.githubusercontent.com/107224774/192181592-1ae82be1-9e40-4c1e-94ee-8751931ebe28.gif" />
 
-Here are some ideas to get you started:
+<h3> Personal Stuffs </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 I am developer
+- 🏠 I'm from João Pessoa, PB - Brasil
+- 📫 How to reach me: tayrone.2013@hotmail.com
+
+<h3> Technologies </h3>
+
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="Jon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Jon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  
+
+</div>
+
+<hr>
+
+<div>
+  <a href="https://github.com/tayronetjs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayronetjs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayronetjs&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+  
+<hr>
+  
+<h3> My Social Medias</h3>
+  
+  <div>
+  <a href="https://www.instagram.com/tayronetjs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:tayrone.2013@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/tayrone-rodrigues-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
+ </div>
