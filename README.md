@@ -1,4 +1,4 @@
-<h1 align = "center">👋, Olá, Meu Nome é Tayrone, Sou Estudante de Desenvolvimento Web Fullstack na Trybe</h1>
+<h1 align = "center">👋, Olá, Meu Nome é Tayrone, Sou Estudante de Desenvolvimento Web </h1>
 
 <img align="right" alt="GIF" width="350px" src="https://user-images.githubusercontent.com/107224774/192181592-1ae82be1-9e40-4c1e-94ee-8751931ebe28.gif" />
 
