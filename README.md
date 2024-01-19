@@ -5,7 +5,7 @@
 <h3> Personal Stuffs </h3>
 
 - 👨‍💻💻 I am developer
-- 🏠 I'm from João Pessoa, PB - Brasil
+- 🏠 I'm from Pedras de Fogo, PB - Brasil
 - 📧 How to reach me: tayrone.2013@hotmail.com
 
 <h3> Technologies </h3>
